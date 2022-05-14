@@ -1,1 +1,1 @@
-# Mechanic-rank
+# Fuzzy- Logic-Mechanic-rank
